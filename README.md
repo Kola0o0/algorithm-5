@@ -3,7 +3,9 @@ Algorithm
 
 Repository to implement by hand some nifty algorithms and data structures in different languages.
 
-TODO
+Done:
 - Dijkstra
-- Fibonnaci Heap
 
+TODO
+- Fibonnaci Heap
+- Topsort
